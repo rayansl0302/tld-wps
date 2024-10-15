@@ -24,8 +24,8 @@
                         Soluções
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="<?php echo home_url('/bloco-solucoes-omni.php'); ?>">Omnichannel</a>
-                        <a class="dropdown-item" href="<?php echo home_url('/bloco-solucoes-ciber.php'); ?>">Cibersegurança</a>
+                        <a class="dropdown-item" href="<?php echo home_url('/omnichannel'); ?>">Omnichannel</a>
+                        <a class="dropdown-item" href="<?php echo home_url('/ciberseguranca.php'); ?>">Cibersegurança</a>
                     </div>
                 </li>
                 
